@@ -43,7 +43,7 @@ function HomePage() {
     {
       name: 'Money Manager',
       image: currency,
-      link: 'https://play.google.com/store/apps/details?id=com.budgetly.cashflow.tracker'
+      link: 'https://play.google.com/store/apps/details?id=com.wallet.personalfinance.moneytracker'
     }
   ];
 
